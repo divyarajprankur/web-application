@@ -5,7 +5,7 @@
   <artifactId>web-application</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>web-application Maven Webapps</name>
+  <name>web-application-Maven-Webapps</name>
   <url>http://localhost:8280/manager/text/list</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>web-application war file</finalName>
+    <finalName>web-application-war-file</finalName>
   </build>
 </project>
